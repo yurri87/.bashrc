@@ -9,5 +9,6 @@ vim ~/.bashrc
 ## add aliases
 ```
 alias www='cd /var/www/'
-alias conf='cd /etc/nginx/sites-available/'
+alias enabled='cd /etc/nginx/sites-enabled/'
+alias available='cd /etc/nginx/sites-available/'
 ```
